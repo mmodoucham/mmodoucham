@@ -4,8 +4,8 @@
 - 🔭 I’m currently working on Image Recognition with OpenCV
 - 🌱 I’m currently learning Machine Learning and Data Science
 - 👯 I’m looking to collaborate on ML and DS projects
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with ML and DS
 - 💬 Ask me about phones, computers and programming..
 - 📫 How to reach me: fb/tw/ig:@mmodoucham
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: the only time I drink Coffee is at the office because everyone does so and I just cant resist
