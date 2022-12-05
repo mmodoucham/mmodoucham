@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 👋 Hi, I’m @mocham
 - 👀 I’m interested in technology
-- 🔭 I’m currently working on Image Recognition with OpenCV
+- 🔭 I’m currently working on Convolutional Neural Networks
 - 🌱 I’m currently learning Machine Learning and Data Science
 - 👯 I’m looking to collaborate on ML and DS projects
 - 🤔 I’m looking for help with ML and DS
